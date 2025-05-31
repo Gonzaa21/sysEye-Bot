@@ -1,0 +1,2 @@
+timestamp,Operating System,OS Version,Total RAM,Used RAM,Free RAM,Available RAM,Total SWAP,Used SWAP,Free SWAP,Global CPU Usage,Number of CPUs,Number of Processes,Disk Name,Disk Type,Disk FileSystem,Disk Removable,Disk ReadOnly,Disk Total Space,Disk Available Space,Net Name,Net Down,Net Up
+2025-05-31_15-44-54,Windows,11 (26100),16507002880,8373374976,8133627904,8133627904,16642998272,0,16642998272,12.00,16,216,,SSD,NTFS,false,false,499263348736,257770713088,Ethernet,271067855,39010256
